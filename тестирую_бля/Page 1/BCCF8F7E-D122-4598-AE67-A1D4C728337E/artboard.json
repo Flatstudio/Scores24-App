@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -52,11 +52,11 @@
     },
     {
       "class": "shapeGroup",
-      "id": "575387C8-6F6F-4D30-9BEF-0E921B663D67"
+      "id": "31D84042-9229-45E1-918C-B6BCB571CB25"
     },
     {
       "class": "shapeGroup",
-      "id": "33550473-27FD-4D60-963E-3C82ECF5AB0A"
+      "id": "1D4BE9BB-16E8-48DF-B1D2-92BDAB69C37A"
     }
   ],
   "name": "е",
