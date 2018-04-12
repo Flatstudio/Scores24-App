@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "3D01E117-70B2-4204-84D3-3104C4198B04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CBCFFD0-AE47-4B6F-96E2-05DB001B99D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "451D1649-90D5-44C0-BB26-E7F725345B50",
+    "height": 20,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C7ACFEDE-954D-430F-82A2-09758EF1B09B"
+    },
+    {
+      "class": "text",
+      "id": "C49CEAB1-AE4C-4F1C-AF0A-2D59CEB04E88"
+    },
+    {
+      "class": "group",
+      "id": "5ED6AAC9-AA8F-4D6F-A542-C2A56DACB63F"
+    }
+  ],
+  "name": "Bars/Status Bar/Light Status Bar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8756AA8-F19E-4F02-AC11-38D97BB01F19",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
