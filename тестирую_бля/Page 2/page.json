@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "d4aefd50-3e6f-11e8-895a-6b84e5e67f7a",
+  "do_objectID": "F9ADCADB-7087-4D0A-9296-ED8D65112A36",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": -612,
     "guides": [
     ]
   },
@@ -32,40 +32,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "00653087-3774-4F2C-A3D7-4955BC49022C"
-    },
-    {
-      "class": "artboard",
-      "id": "59E73E7C-9A13-45C0-A033-304536AEFE8C"
-    },
-    {
-      "class": "artboard",
-      "id": "BCCF8F7E-D122-4598-AE67-A1D4C728337E"
-    },
-    {
-      "class": "artboard",
-      "id": "122171DB-90CF-466A-A877-7DF3C3EB0988"
-    },
-    {
-      "class": "text",
-      "id": "F34C1390-2110-42EE-B027-181A5F9CB650"
-    },
-    {
-      "class": "text",
-      "id": "0E96025A-9D4C-4C0F-BDDA-74C901F04B3D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "20792F88-12D3-4096-A8A1-0C224E431479"
-    },
-    {
-      "class": "text",
-      "id": "4605A793-83AA-495C-9F8E-C2B2964F40E0"
-    }
   ],
-  "name": "Page 1",
+  "name": "Page 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,7 +47,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": -502,
     "guides": [
     ]
   }
