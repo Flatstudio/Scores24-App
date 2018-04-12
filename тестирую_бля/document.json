@@ -16,6 +16,8 @@
   },
   "colorSpace": 0,
   "do_objectID": "d4af2460-3e6f-11e8-895a-6b84e5e67f7a",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -24,13 +26,14 @@
     ]
   },
   "meta": {
-    "appVersion": "49.3",
-    "build": 51167,
-    "version": 101
+    "appVersion": "48.2",
+    "build": 47327,
+    "version": 97
   },
   "pages": [
     "Page 1",
-    "Page 2"
+    "Page 2",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
