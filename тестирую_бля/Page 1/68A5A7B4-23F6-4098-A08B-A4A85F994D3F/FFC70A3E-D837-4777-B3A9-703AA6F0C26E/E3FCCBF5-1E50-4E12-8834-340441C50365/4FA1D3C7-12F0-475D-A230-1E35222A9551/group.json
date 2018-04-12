@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "4FA1D3C7-12F0-475D-A230-1E35222A9551",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FF020E4-5519-4BB4-BAE7-5107FE43E2CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "011B632C-B55F-433B-95AC-717E841E1851",
+    "height": 15,
+    "width": 63,
+    "x": 11,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2ADE8F41-F0EC-4F58-A9A6-066D8A6D6768"
+    },
+    {
+      "class": "text",
+      "id": "918DFE87-0B61-409C-AA6E-EE6EDAF144D5"
+    }
+  ],
+  "name": "battery",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF8FEC2B-E0FA-42EE-A736-B7BCDD034191",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

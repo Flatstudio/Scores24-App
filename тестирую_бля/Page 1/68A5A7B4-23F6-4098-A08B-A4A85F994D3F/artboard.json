@@ -4,14 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.9490196078431372,
-    "do_objectID": "002B6D45-182C-4F8A-938E-46EA9830CE9C",
+    "do_objectID": "E043E0F4-9F13-45CF-B9DA-423C99DED8AF",
     "green": 0.9490196078431372,
     "red": 0.9490196078431372
   },
-  "do_objectID": "046C2C75-058B-40C5-9A11-419E9A3B3681",
+  "do_objectID": "68A5A7B4-23F6-4098-A08B-A4A85F994D3F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B6B166C6-1449-4536-9697-F71E242AC756",
+    "do_objectID": "27A23642-0B5A-40B2-8D83-F8C8E6100E3D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -31,10 +31,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "78562F32-8A8F-455D-8245-E000124B8278",
+    "do_objectID": "958EE901-F87A-4F3F-B241-EF5628778C7F",
     "height": 667,
     "width": 375,
-    "x": 1382,
+    "x": 1889,
     "y": 518
   },
   "hasBackgroundColor": true,
@@ -42,7 +42,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3D890873-A567-47DB-9E22-F14BFCB78213",
+    "do_objectID": "3F686D83-C705-4B8B-92AF-8F602F6A4863",
     "guides": [
     ]
   },
@@ -57,42 +57,18 @@
   "layers": [
     {
       "class": "group",
-      "id": "2606EC8B-680E-4192-A06D-458E3D9FEF42"
+      "id": "63396C3C-8A84-4CAC-B3CB-373733738E1F"
     },
     {
       "class": "group",
-      "id": "3D01E117-70B2-4204-84D3-3104C4198B04"
+      "id": "FFC70A3E-D837-4777-B3A9-703AA6F0C26E"
     },
     {
       "class": "group",
-      "id": "8D1B5D5E-9905-495E-84EA-80231AA96A6B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9A9ED2F2-B8DD-49F2-BE5B-136F531A2581"
-    },
-    {
-      "class": "text",
-      "id": "A59C29DF-AE8B-475E-8492-0269A2D782A6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "735A36D5-9A7A-435B-9DD2-A81887C64ABF"
-    },
-    {
-      "class": "text",
-      "id": "AAF35B20-7860-4D93-95C1-31974A1E86DA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6641C5A1-7A49-4751-AC99-7D37032273A1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9C6BF72A-E99A-443F-844A-A496E9511C24"
+      "id": "349E5BA8-BAC7-4E9A-8F58-91721FE7FF95"
     }
   ],
-  "name": "22. Betslip",
+  "name": "22. Betslip Copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -108,7 +84,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "25A966D2-AE04-4E4F-8C16-194D055E7922",
+    "do_objectID": "7D8C18BC-05FA-4281-8149-95B410E79B6A",
     "endDecorationType": 0,
     "fills": [
       {
@@ -140,7 +116,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8E71DDE6-F7DB-4B34-82E8-7943163A967D",
+    "do_objectID": "307C9021-62C0-4A8A-80BD-9EF2E448F4EA",
     "guides": [
     ]
   }
